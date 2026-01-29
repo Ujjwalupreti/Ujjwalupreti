@@ -56,5 +56,3 @@ I’m a **B.Tech student** passionate about building scalable backend systems an
 ![Profile Views](https://komarev.com/ghpvc/?username=Ujjwalupreti&label=Profile%20Views&color=0e75b6&style=flat)
 
 ![UjjwalUpreti Stats](https://github-readme-stats.vercel.app/api?username=Ujjwalupreti&show_icons=true&locale=en&theme=radical)
-
-![UjjwalUpreti Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Ujjwalupreti&show_icons=true&locale=en&layout=compact&theme=radical)
